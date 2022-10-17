@@ -1,0 +1,34 @@
+.background {
+background-color: #603c70;
+}
+*nav {
+ width: 73%;  
+ padding: 1%; 
+}
+*ul {
+ width: 50%;   
+ margin-right:auto;
+}
+.heroImg {
+width:58%;    
+padding: 1%;
+margin-left: auto;
+}
+
+.swing {
+width: 58%;
+padding:1%;
+}
+.body {
+font-style:normal merriweather;
+font-size: 20pt;
+color: rgba(255, 255, 255, 0.7);
+text-align: center;
+}
+*li {
+font-family: merriweather;
+text-align: right;
+}
+.logo {
+    align-self: left;
+}
